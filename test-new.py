@@ -7,3 +7,5 @@ def f(x):
 
 def p(x):
     return x**3
+
+print("Daniel is the boss.")
